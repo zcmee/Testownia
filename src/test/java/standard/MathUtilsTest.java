@@ -1,9 +1,7 @@
 package standard;
 
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.BeforeClass;
-import org.junit.Test;
+import org.junit.*;
+import org.junit.rules.ExpectedException;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
@@ -15,6 +13,9 @@ import java.util.Collection;
 public class MathUtilsTest {
     private MathUtils mathUtils;
 
+    @Rule
+    public ExpectedException thrown = ExpectedException.none();
+
     @Before
     public void setUp() {
         mathUtils = new MathUtils();
@@ -22,24 +23,31 @@ public class MathUtilsTest {
 
     private int numberA; //{0} w parameters
     private int numberB;
-    private int expected; //{2} w parameters
+    public Class<? extends Exception> expectedException;
+    private int expected; //{3} w parameters
 
-    public MathUtilsTest(int numberA, int numberB, int expected) {
+    public MathUtilsTest(int numberA, int numberB, Class<? extends Exception> expectedException,  int expected) {
         this.numberA = numberA;
         this.numberB = numberB;
+        this.expectedException = expectedException;
         this.expected = expected;
     }
 
-    @Parameterized.Parameters(name = "{index}: testAdd({0}+{1}) = {2}")
+    @Parameterized.Parameters(name = "{index}: testAdd({0} + {1}) = {3}")
     public static Collection<Object[]> data() {
         return Arrays.asList(new Object[][] {
-                { 0, 0, 0 }, { 1, 1, 2 }, { 5, 12, 17 }
+                { -1, 5, IllegalArgumentException.class, 0 },
+                { 0, -1, IllegalArgumentException.class, 0 },
+                { 0, 0, null, 0 },
+                { 1, 1, null, 2 },
+                { 5, 12, null, 17 }
         });
     }
 
     @Test
     public void add() throws Exception {
-        Assert.assertEquals(expected, mathUtils.add(numberA, numberB));
+        if (expectedException != null) { thrown.expect(expectedException); }
+        Assert.assertEquals(expected, mathUtils.addPositiveValues(numberA, numberB));
     }
 
 }

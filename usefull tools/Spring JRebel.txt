@@ -1,0 +1,17 @@
+Ściągamy dependency:
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-devtools</artifactId>
+    <optional>true</optional>
+</dependency>
+
+W IntellijIdea:
+Help > Find Action > Registry > compiler.automake.allow.when.app.running and check
+Nastêpnie zanzaczamy project:
+File > Settings > Compiler > build project automatically
+
+Opis obrazkowy powyższej instalacji:
+https://www.mkyong.com/spring-boot/intellij-idea-spring-boot-template-reload-is-not-working/ (graficzny opis powy¿szego)
+
+W przeglądarce google dodaje rozszerzenie:
+https://chrome.google.com/webstore/detail/remotelivereload/jlppknnillhjgiengoigajegdpieppei

@@ -76,6 +76,9 @@ learn-angular-2-from-beginner-to-advanced 1.91GB
 Kurs_Efektowne_Strony_Z_CSS3 https://strefakursow.pl/kursy/web_design/kurs_efektowne_strony_z_css3.html -> 0,99 GB
 KURS AJAX STREFA KURSOW https://strefakursow.pl/kursy/web_design/kurs_programowania_w_ajax.html 378 MB -> 378 MB
 [FreeTutorials.Us] Udemy - the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/ Size: 2.67G 
+[FreeCourseSite.com] Udemy - The Complete Deep Web Course 2018 Become An Expert! https://www.udemy.com/the-complete-deep-web-course-2017 -> 665 MB
+[FreeTutorials.Us] Udemy - docker-for-java-developers Beginner to Expert Docker for Java Developers https://www.udemy.com/docker-for-java-developers -> 2.79G
+[FreeCourseSite.com] Udemy - GitHub Ultimate Master Git and GitHub – Beginner to Expert 1,58 
 
 !!!!!SPRING
 O'Reilly - Spring Framework Essentials

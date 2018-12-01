@@ -13,7 +13,7 @@ Udemy - Bug Bounty Web Hacking -> 1.09GB -> Jako ostatnie
 !!!!!Hibernate:
 Infinite Skills - Hibernate and Java Persistence API (JPA) Fundamentals
 [FreeTutorials.Us] Udemy - hibernate-jpa-tutorial-for-beginners-in-100-steps https://www.udemy.com/hibernate-jpa-tutorial-for-beginners-in-100-steps -> 1,65 GB
-
+[FreeCourseSite.com] Udemy - How to Hack a Web Application- Security Practices https://www.udemy.com/how-to-hack-a-web-application -> 1.53 GB
 
 !!!!!JAVA
 InformIT - Design Patterns in Java LiveLessons ->2.9GB
@@ -50,7 +50,7 @@ Lynda - TypeScript Essential Training -> 523 MB
 webpack-wydajna-praca-javascript https://eduweb.pl/kursy/javascript/webpack-wydajna-praca-javascript.html !!!!
 ecmascript6-nowy-standard-javascript https://eduweb.pl/kursy/javascript/ecmascript6-nowy-standard-javascript.html -> 5,85GB
 javascript-w-praktyce
-
+[FreeCourseSite.com] Udemy - JavaScript Variables Lifecycles https://www.udemy.com/javascript-variables-lifecycles -> 1.73 GB
 !!!!!ANGULAR
 Lynda - Angular API Communication and Authentication 424 MB
 learn-angular-2-from-beginner-to-advanced 1.91GB
@@ -79,7 +79,8 @@ KURS AJAX STREFA KURSOW https://strefakursow.pl/kursy/web_design/kurs_programowa
 [FreeCourseSite.com] Udemy - The Complete Deep Web Course 2018 Become An Expert! https://www.udemy.com/the-complete-deep-web-course-2017 -> 665 MB
 [FreeTutorials.Us] Udemy - docker-for-java-developers Beginner to Expert Docker for Java Developers https://www.udemy.com/docker-for-java-developers -> 2.79G
 [FreeCourseSite.com] Udemy - GitHub Ultimate Master Git and GitHub – Beginner to Expert 1,58 
-
+[FreeTutorials.Eu] Udemy - mongodb-the-complete-developers-guide https://www.udemy.com/mongodb-the-complete-developers-guide/ -> 5.62G
+[FreeTutorials.Us] Udemy - learn-mongodb-leading-nosql-database-from-scratch https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/ -> 1.81G 
 !!!!!SPRING
 O'Reilly - Spring Framework Essentials
 Udemy - Spring Framework 4 Covers Annotation & XML Configuration

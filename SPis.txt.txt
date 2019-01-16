@@ -14,6 +14,7 @@ Udemy - Bug Bounty Web Hacking -> 1.09GB -> Jako ostatnie
 Infinite Skills - Hibernate and Java Persistence API (JPA) Fundamentals
 [FreeTutorials.Us] Udemy - hibernate-jpa-tutorial-for-beginners-in-100-steps https://www.udemy.com/hibernate-jpa-tutorial-for-beginners-in-100-steps -> 1,65 GB
 [FreeCourseSite.com] Udemy - How to Hack a Web Application- Security Practices https://www.udemy.com/how-to-hack-a-web-application -> 1.53 GB
+[FreeCourseSite.com] Udemy - Web Application Penetration Testing Using Burp Suite https://www.udemy.com/website-application-penetration-testing-using-burp-suite -> 1,30 GB
 
 !!!!!JAVA
 InformIT - Design Patterns in Java LiveLessons ->2.9GB
@@ -31,8 +32,8 @@ Kurs Java Aspekty Zaawansowane http://videokurs.pl/kurs-java-aspekty-zaawansowan
 [FreeTutorials.Us] Udemy - Java Memory Management https://www.udemy.com/java-memory-management/ -> 442 MB
 [FreeCourseSite.com] Udemy - Algorithms and Data Structures in Java – Part I  https://www.udemy.com/algorithms-and-data-structures/.Size: 1.45 GB
 [FreeCourseSite.com] Udemy - Algorithms and Data Structures in Java – Part II https://www.udemy.com/algorithms-and-data-structures-in-java-part-ii/.Size: 1 GB
-[FreeCourseSite.com] Udemy - Design Patterns in Java - Concepts & Hands On Projects https://www.udemy.com/design-patterns-in-java-concepts-hands-on-projects/.Size: 1.33 GB
-
+[FreeCourseSite.com] Udemy - Design Patterns in Java - Concepts & Hands On Projects https://www.udemy.com/design-patterns-in-java-concepts-hands-on-projects -> 1.33 GB
+[FreeCourseSite.com] Udemy - Data Structures and Algorithms Deep Dive Using Java https://www.udemy.com/data-structures-and-algorithms-deep-dive-using-java -> 2.54 GB
 
 !!!!!JAVASCRIPT
 [udemy] The Complete JavaScript Course Build a Real-World Project [FreeOnlineMovies.Co] ->3.07
@@ -81,6 +82,10 @@ KURS AJAX STREFA KURSOW https://strefakursow.pl/kursy/web_design/kurs_programowa
 [FreeCourseSite.com] Udemy - GitHub Ultimate Master Git and GitHub – Beginner to Expert 1,58 
 [FreeTutorials.Eu] Udemy - mongodb-the-complete-developers-guide https://www.udemy.com/mongodb-the-complete-developers-guide/ -> 5.62G
 [FreeTutorials.Us] Udemy - learn-mongodb-leading-nosql-database-from-scratch https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/ -> 1.81G 
+[FreeCourseSite.com] Udemy - Learn JMETER from Scratch on Live Apps Performance Testing https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool -> 758.18 MB
+
+
+
 !!!!!SPRING
 O'Reilly - Spring Framework Essentials
 Udemy - Spring Framework 4 Covers Annotation & XML Configuration

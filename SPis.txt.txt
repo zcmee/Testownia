@@ -15,6 +15,9 @@ Infinite Skills - Hibernate and Java Persistence API (JPA) Fundamentals
 [FreeTutorials.Us] Udemy - hibernate-jpa-tutorial-for-beginners-in-100-steps https://www.udemy.com/hibernate-jpa-tutorial-for-beginners-in-100-steps -> 1,65 GB
 [FreeCourseSite.com] Udemy - How to Hack a Web Application- Security Practices https://www.udemy.com/how-to-hack-a-web-application -> 1.53 GB
 [FreeCourseSite.com] Udemy - Web Application Penetration Testing Using Burp Suite https://www.udemy.com/website-application-penetration-testing-using-burp-suite -> 1,30 GB
+[FreeCourseSite.com] Udemy - Website Hacking & Penetration Testing (Real World Hacking!) https://www.udemy.com/web-applications-hacking-penetration-testing 543 MB
+[FreeCourseLab.com] Udemy - The Complete Penetration Testing Course Beginner To Expert https://www.udemy.com/the-complete-ethical-hacking-masterclass 6,10 GB
+
 
 !!!!!JAVA
 InformIT - Design Patterns in Java LiveLessons ->2.9GB
@@ -54,15 +57,12 @@ javascript-w-praktyce
 [FreeCourseSite.com] Udemy - JavaScript Variables Lifecycles https://www.udemy.com/javascript-variables-lifecycles -> 1.73 GB
 !!!!!ANGULAR
 Lynda - Angular API Communication and Authentication 424 MB
-learn-angular-2-from-beginner-to-advanced 1.91GB
 [FreeTutorials.Us] angular-firebase-application 708 MB
 [FreeTutorials.Us] angular-advanced-masterclass 944 MB
 [FreeTutorials.Us] angular4-typescript-from-basic-to-advanced Angular5 + TypeScript from Basic to Advanced + Live Project https://www.udemy.com/angular4-typescript-from-basic-to-advanced/ -> 3,07 GB
 [FreeTutorials.us] testing-angular-apps 333 MB
 [FreeTutorials.us] understanding-typescript https://www.udemy.com/understanding-typescript -> 1,15 GB
 [FreeCourseSite.com] Udemy - Angular (Full App) with Angular Material, Angularfire & NgRx https://www.udemy.com/angular-full-app-with-angular-material-angularfire-ngrx/ 1,84 GB
-[FreeTutorials.Us] angular-essentials-angular-2-angular-4-with-typescript0,98 GB
-[FreeTutorials.Us] angular-styling-animations-for-angular-2-and-angular-4 1,46 GB
 [FreeTutorials.Us] Udemy - the-complete-angular-master-class -> 3,83 GB
 [FreeTutorials.Us] angular4-typescript-from-basic-to-advanced Angular5 + TypeScript from Basic to Advanced + Live Project https://www.udemy.com/angular4-typescript-from-basic-to-advanced/ -> 3,07 GB
 [FreeCourseSite.com] Udemy - TypeScript, Angular, Firebase & Angular Material Masterclass 1,79 https://www.udemy.com/angular-all-you-need-to-know
@@ -83,7 +83,7 @@ KURS AJAX STREFA KURSOW https://strefakursow.pl/kursy/web_design/kurs_programowa
 [FreeTutorials.Eu] Udemy - mongodb-the-complete-developers-guide https://www.udemy.com/mongodb-the-complete-developers-guide/ -> 5.62G
 [FreeTutorials.Us] Udemy - learn-mongodb-leading-nosql-database-from-scratch https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/ -> 1.81G 
 [FreeCourseSite.com] Udemy - Learn JMETER from Scratch on Live Apps Performance Testing https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool -> 758.18 MB
-
+[FTUForum.com] Udemy - Go Full Stack with Spring Boot and Angular 7 https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular 5GB <--- good
 
 
 !!!!!SPRING
@@ -104,5 +104,5 @@ O'Reilly - Spring MVC for Java Developers
 [FreeTutorials.Us] Udemy - microservices-with-spring-cloud  https://www.udemy.com/microservices-with-spring-cloud/ 1,22 GB
 [FreeCourseSite.com] Udemy - Master Microservices with Spring Boot and Spring Cloud Master Microservices with Spring Boot and Spring Cloud https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud -> 1,38 GB 
 [FreeCourseSite.com] Udemy - Master Java Web Services and REST API with Spring Boot https://www.udemy.com/spring-web-services-tutorial -> 1.12 GB
-
+[FTUForum.com] Udemy - Go Full Stack with Spring Boot and Angular 7 https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular 5GB <--- jest w INNE 
 
